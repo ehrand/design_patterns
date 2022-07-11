@@ -1,0 +1,4 @@
+**/_build/
+**/_sysroot/
+**/.cache/
+**/compile_commands.json
